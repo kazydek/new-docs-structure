@@ -1,10 +1,10 @@
-See how a same docs structure will look like on [GitHub](/github).
+See how a sample docs structure will look like on [GitHub](/github).
 
-Some more detailed examples of subfolders, floating docs, and regular docs is shown in the [Operational Guides](/04-operational-guides).
+Some more detailed examples of subfolders, floating docs, and regular docs are shown in the [Operational Guides](/04-operational-guides).
 
 Important info:
 
-- Each folder must contain a `metadata.yaml` file that defines its display name.
+- Each folder must contain a `metadata.yaml` file that defines the folder's display name.
 
 - Display name of a given doc is defined in its metadata.
 
