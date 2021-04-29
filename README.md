@@ -1,6 +1,6 @@
 See how a sample docs structure will look like on [GitHub](/github).
 
-Some more detailed examples of subfolders, floating docs, and regular docs are shown in the [Operational Guides](/04-operational-guides).
+Some more detailed examples of subfolders, floating docs, and regular docs are shown in the [Operational Guides](/github//04-operational-guides).
 
 Important info:
 
