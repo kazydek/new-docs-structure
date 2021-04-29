@@ -14,6 +14,6 @@ Important info:
 
 - "Floating files" refer to the docs that are "hanging" under a given folder with subfolders. Most often, they are to give some basic info about the given folder or provide some intro to the subfolders.
 
-> **NOTE:** There can be more than just one floating file!
+  > **NOTE:** There can be more than just one floating file!
 
 - [FUTURE?] Unless you specify otherwise in the `metadata.yaml`, if you click on a given node (e.g. tutorials) that has no floating docs, the website will display the first document from the first subfolder on the list.
